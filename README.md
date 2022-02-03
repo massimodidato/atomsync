@@ -1,0 +1,2 @@
+# atomsync
+Sync with Atom
